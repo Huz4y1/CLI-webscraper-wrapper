@@ -1,0 +1,23 @@
+ Dependencies
+node_modules/
+
+# Playwright browser binaries
+playwright/.local-chromium/
+playwright/.local-firefox/
+playwright/.local-webkit/
+
+# Debug output files we created
+debug-output.html
+debug-page.html
+debug-category-page.html
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
