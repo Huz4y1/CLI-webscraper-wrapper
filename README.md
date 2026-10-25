@@ -2,6 +2,9 @@
 
 An unofficial terminal ordering interface for German Doner Kebab, powered by Playwright and Node.js.
 
+![GDK CLI start screen](docs/start-screen.png)
+
+
 ---
 
 ## Requirements
